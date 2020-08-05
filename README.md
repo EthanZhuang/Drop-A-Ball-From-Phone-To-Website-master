@@ -24,4 +24,4 @@
 ## Architecture of System
 ![Alt text](projectArchitecture.PNG)
 
-Deverlopers: Hong-Ji Lu, 莊嘉穎, 陳知昊
+Deverlopers: Hong-Ji Lu, Zhuang Jia-Ying, 陳知昊
